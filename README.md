@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Computer Engineering student with a passion for gaming, web, mobile and game development.</p>
+<p align="left">I'm an Engineering Sophemore with a passion for gaming, web, mobile and game development.</p>
 
 ###
 
