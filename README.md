@@ -16,32 +16,6 @@ I don't write code; I compose performance. I spend 6 hours configuring my LSP so
 
 ---
 
-### 💥 The "Blazingly Fast" Projects
-
-I build things that are faster than your attention span.
-
-#### 🦀 **[CrabKV (The Rust Store)]**
-*The Backend Flex.*
-I looked at Redis and said, "I can do that in Rust."
-* **The Stack:** Rust, Tokio, Sweat, Tears.
-* **Why?** Because `async` is hard and I like pain.
-* **Performance:** It handles concurrent connections faster than you can say "Garbage Collection."
-
-#### 👁️ **[Perception Labs](https://perceptionlabs.tech)**
-*The Frontend Flex.*
-Most frontend devs use 50MB of JavaScript to center a div. I built **Perception Labs**.
-* **The Vibe:** It looks better than your future.
-* **The Tech:** Next.js optimized to the bone.
-* **Verdict:** Go look at it. It's crazy good.
-
-#### 📉 **DownWork** (Legacy)
-*The System Architecture Flex.*
-I built an Upwork clone from scratch. It worked. It scaled. I got bored.
-* **Status:** Unmaintained (I moved on to lower-level languages).
-* **The Lesson:** I can build full-scale platforms in my sleep.
-
----
-
 ### 🛠️ The Toolbelt (Vim Bindings ON)
 
 If it doesn't have a dark mode and a CLI, I don't touch it.
