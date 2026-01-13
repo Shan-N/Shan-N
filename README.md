@@ -11,7 +11,7 @@ I don't write code; I compose performance. I spend 6 hours configuring my LSP so
 
 * **My Editor:** VS Code (with Vim bindings, obviously).
 * **My OS:** macOS on Apple Silicon. (Unix-based, because I need the terminal to be habitable).
-* **My Current Obsession:** **Blockchain & Zig**. I'm putting the "Smart" in Smart Contracts.
+* **My Current Obsession:** **Zig**. Upgraded C.
 * **My Moral Alignment:** Chaotic Efficient.
 
 ---
@@ -22,7 +22,7 @@ If it doesn't have a dark mode and a CLI, I don't touch it.
 
 | Category | The Chosen Tools |
 | :--- | :--- |
-| **Low Level & Chains** | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) |
+| **Low Level & Chains** | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) |
 | **The "Web"** | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) *(Necessary Evil)* |
 | **Orchestration** | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 | **Deployments** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) |
