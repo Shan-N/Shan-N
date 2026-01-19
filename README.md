@@ -1,4 +1,13 @@
-# whoami
-shan@github:~$ echo "systems • web • security"
-shan@github:~$ echo "rust | typescript | next | networking"
-shan@github:~$ echo • privacy by design"
+╭─ shan@github:~ ───────────────────────────╮
+│ $ whoami                                  │
+│ shan                                     │
+│                                          │
+│ $ echo "systems • web • security"         │
+│ systems • web • security                 │
+│                                          │
+│ $ echo "rust | typescript | next | net"   │
+│ rust | typescript | next | networking    │
+│                                          │
+│ $ echo "offline-first • privacy by design"│
+│ offline-first • privacy by design        │
+╰──────────────────────────────────────────╯
